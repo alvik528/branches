@@ -1,4 +1,6 @@
 body {
 	font-size: 18px;
-	background-color: #FFEC8B;
+
+	background-image: url(congruent_pentagon.png);
+  	background-repeat:repeat;
 }
